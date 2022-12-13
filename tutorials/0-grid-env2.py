@@ -28,8 +28,8 @@ C = ry.Config()
 
 
 C.clear()
-C.addFile('../rai-robotModels/test/base-grid.g')
-C.addFile('../rai-robotModels/myRobo/myRobo.g')
+# C.addFile('../rai-robotModels/test/base-grid.g')
+C.addFile('../my-robotModels/simpleRobo/robo.g')
 C.view()
 
 
